@@ -1,0 +1,22 @@
+---
+title: "Devlog 0 - Hello World!"
+date: 2022-05-19T19:47:58+02:00
+draft: true
+---
+
+# There and back again
+## A devlog?
+Welcome to the development blog about The Gods Tears, a fantasy rpg videogame developed in C++ and Unreal Engine 5.
+I will try to make a weekly post about how the development is progressing and what cool features I'm working on at the moment, but I cannot guarantee regular updates.
+
+## Why?!
+That is a fair question, I do not expect this devlog to be read by a lot of people to be honest... But I want to keep record of the small progress I make and I want some accountability, and a devlog will force me to commit to some targets.
+
+## Ok what can we expect
+There will be some technical posts about the main areas of the development. Because the game is scheduled to be released as a beta of how the final product will look like only the most important systems will be included from the start:
+- Age system
+- Factions system
+- Magical craft/research/development system
+- Necromancy system (realistic necromancy)
+
+
