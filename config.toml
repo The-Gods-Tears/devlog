@@ -1,0 +1,4 @@
+baseURL = "http://devlog.thegodstears.com/"
+languageCode = "en-us"
+title = "The Gods Tears Devlog"
+theme = "ananke"
